@@ -1,0 +1,7 @@
+{
+  "name": "HealPoint India Directory",
+  "description": "A comprehensive healthcare directory and smart assistant for finding medical centers across India. Features advanced filtering and AI-powered maps grounding for real-time facility search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
